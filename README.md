@@ -40,5 +40,3 @@ python srp-daily.py
 ```
 
 For historical data collection, adjust the loop parameters in the script as noted in the comments.
-
-Would you like me to add any additional sections or details to the README?
